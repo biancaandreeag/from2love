@@ -27,3 +27,4 @@
 2025-04-17 21:45:30 - INFO - [ SERVER API ][ Received analysis request: uuid=uuid-001, link=https://www.tiktok.com/@user/video/1234567890, model=modelA ]
 2025-04-17 21:45:30 - INFO - [ SERVER API ][ Post exists, sending data to Preprocessor for model: modelA ]
 2025-04-17 21:45:30 - INFO - [ SERVER API ][ Preprocessing Payload: {'uuid': 'uuid-001', 'model': 'modelA', 'comments': ['\U0001f525\U0001f525\U0001f525', 'Too funny \U0001f602', 'I love this!']} ]
+2025-04-17 21:49:23 - INFO - [ SERVER API ][ Connecting to database and starting API...]
