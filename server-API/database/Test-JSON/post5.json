@@ -1,0 +1,27 @@
+{
+    "uuid": "uuid-002",
+    "post_link": "https://www.facebook.com/user/posts/987654321",
+    "comments": [
+      "Great product launch!",
+      "Looking forward to trying it.",
+      "When will it be available?"
+    ],
+    "analyses": [
+      {
+        "model": "modelA",
+        "result": {
+          "sentiment": "neutral",
+          "keywords": ["launch", "product"]
+        }
+      },
+      {
+        "model": "modelB",
+        "result": {
+          "sentiment": "positive",
+          "confidence": 0.87,
+          "topics": ["marketing", "release"]
+        }
+      }
+    ]
+  }
+  

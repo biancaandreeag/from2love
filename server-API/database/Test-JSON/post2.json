@@ -1,0 +1,15 @@
+{
+    "uuid": "uuid-002",
+    "post_link": "https://www.facebook.com/user/posts/987654321",
+    "comments": [],
+    "analyses": [
+      {
+        "model": "modelA",
+        "result": {
+          "sentiment": "neutral",
+          "keywords": ["launch", "product"]
+        }
+      }
+    ]
+}
+  

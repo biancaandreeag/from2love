@@ -1,0 +1,15 @@
+{
+    "uuid": "uuid-002",
+    "post_link": "https://www.tiktok.com/@anotheruser/video/192837465",
+    "comments": ["Love this dance!", "How do you do it?", "Saved!"],
+    "analyses": [
+      {
+        "model": "modelB",
+        "result": {
+          "sentiment": "positive",
+          "confidence": 0.92
+        }
+      }
+    ]
+  }
+  
